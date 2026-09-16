@@ -2,7 +2,7 @@
 
 Ovo je Shiny web aplikacija za praćenje podataka o fiskaliziranim računima u Hrvatskoj. Napravljena je za pregled i analizu javno dostupnih podataka Porezne uprave i Državnog zavoda za statistiku.
 
-Aplikacija prikazuje povijesne podatke od 2018. do danas i sama dohvaća najnovije podatke pri svakom pokretanju. Omogućuje prikaze po vremenskim razdobljima, mjesecima, danima, županijama i djelatnostima, te analizu utjecaja neradnih nedjelja i inflacije na promet.
+Aplikacija prikazuje povijesne podatke od 2018. do danas i sama dohvaća najnovije podatke pri svakom pokretanju. Omogućuje prikaze po vremenskim razdobljima, mjesecima, danima, županijama i djelatnostima, te analizu utjecaja neradnih nedjelja i inflacije na promet. Autor Marija Ferinović
 
 **Aplikacija:** https://mferinovic.shinyapps.io/fiskalizacija_racuna/
 
@@ -16,7 +16,7 @@ Aplikacija prikazuje povijesne podatke od 2018. do danas i sama dohvaća najnovi
 
 ## Pokretanje aplikacije
 
-Potreban je R (preporučeno 4.5 ili noviji) i RStudio.
+Potreban je R, preporučeno 4.5 ili noviji i RStudio.
 
 Nakon kloniranja repozitorija treba instalirati potrebne pakete:
 
@@ -51,6 +51,4 @@ Pri pokretanju aplikacija sama provjerava jesu li dostupni noviji podaci na port
 
 Od 1. siječnja 2026. postupak fiskalizacije primjenjuje se na sve obveznike u krajnjoj potrošnji neovisno o načinu plaćanja. Ranijih godina postupak je bio neobavezan za transakcijska plaćanja, stoga podaci iz 2026. nisu u cijelosti usporedivi s prethodnim godinama.
 
-## Autor
 
-Marija Ferinović
