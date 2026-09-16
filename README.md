@@ -51,6 +51,6 @@ Pri pokretanju aplikacija sama provjerava jesu li dostupni noviji podaci na port
 
 Od 1. siječnja 2026. postupak fiskalizacije primjenjuje se na sve obveznike u krajnjoj potrošnji neovisno o načinu plaćanja. Ranijih godina postupak je bio neobavezan za transakcijska plaćanja, stoga podaci iz 2026. nisu u cijelosti usporedivi s prethodnim godinama.
 
-## Autor
+## Napomena o .gitattributes
 
-Marija Ferinović
+Datoteka `.gitattributes` koristi se za Git LFS, koji omogućuje da `data/svi_podaci.csv`, preko 1.14 milijuna redova i oko 108 MB, bude uključen u repozitorij unatoč GitHubovom ograničenju veličine datoteka.
