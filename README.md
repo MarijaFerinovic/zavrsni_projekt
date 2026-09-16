@@ -1,6 +1,7 @@
 # Fiskalizirani računi u Hrvatskoj
+Marija Ferinović.
 
-Ovo je Shiny web aplikacija za praćenje podataka o fiskaliziranim računima u Hrvatskoj. Napravljena je za pregled i analizu javno dostupnih podataka Porezne uprave i Državnog zavoda za statistiku. Autor je Marija Ferinović.
+Ovo je Shiny web aplikacija za praćenje podataka o fiskaliziranim računima u Hrvatskoj. Napravljena je za pregled i analizu javno dostupnih podataka Porezne uprave i Državnog zavoda za statistiku. 
 
 Aplikacija prikazuje povijesne podatke od 2018. do danas i sama dohvaća najnovije podatke pri svakom pokretanju. Omogućuje prikaze po vremenskim razdobljima, mjesecima, danima, županijama i djelatnostima, te analizu utjecaja neradnih nedjelja i inflacije na promet.
 
