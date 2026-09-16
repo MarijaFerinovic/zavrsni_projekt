@@ -16,7 +16,7 @@ Aplikacija prikazuje povijesne podatke od 2018. do danas i sama dohvaća najnovi
 
 ## Pokretanje aplikacije
 
-Potreban je R (preporučeno 4.5 ili noviji) i RStudio.
+Potreban je R, preporučeno 4.5 ili noviji i RStudio.
 
 Nakon kloniranja repozitorija treba instalirati potrebne pakete:
 
